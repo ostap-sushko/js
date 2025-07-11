@@ -4,7 +4,7 @@ const name = "Ostap";
 console.log(typeof name);
 const isStudent = true;
 console.log(typeof isStudent);
-const myString = "ти не ти коли голодний";
+const myString = "Ти не ти, коли голодний";
 console.log(typeof myString);
 const myNumber = 20;
 console.log(myNumber + 10);
